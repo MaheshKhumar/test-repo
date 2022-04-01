@@ -1,3 +1,2 @@
 this is my second file
 this is second line
-ths is my new line in second file
